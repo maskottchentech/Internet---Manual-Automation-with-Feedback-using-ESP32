@@ -33,10 +33,10 @@
 #define VARIABLE_LABEL_SUB_3 "r3" // Assing the variable label to subscribe
 #define VARIABLE_LABEL_SUB_4 "r4" // Assing the variable label to subscribe
 
-#define VARIABLE_LABEL_PUB_1 "r1" // Assing the variable label to subscribe
-#define VARIABLE_LABEL_PUB_2 "r2" // Assing the variable label to subscribe
-#define VARIABLE_LABEL_PUB_3 "r3" // Assing the variable label to subscribe
-#define VARIABLE_LABEL_PUB_4 "r4" // Assing the variable label to subscribe
+#define VARIABLE_LABEL_PUB_1 "r1" // Assing the variable label to Publish
+#define VARIABLE_LABEL_PUB_2 "r2" // Assing the variable label to Publish
+#define VARIABLE_LABEL_PUB_3 "r3" // Assing the variable label to Publish
+#define VARIABLE_LABEL_PUB_4 "r4" // Assing the variable label to Publish
 
 
 #define DEVICE_LABEL "esp32" // Assig the device label to subscribe
